@@ -1,0 +1,21 @@
+{
+    "name": "Requests",
+    "short_name": "Requests",
+    "description": "Send HTTPs, REST and SOAP requests easily.",
+    "display": "standalone",
+    "start_url": "/requests",
+    "theme_color": "#8062F8",
+    "background_color": "#8062F8",
+    "icons": [
+        {
+            "src": "/requests/icons/icon192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/requests/icons/icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
