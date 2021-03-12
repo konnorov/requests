@@ -3,7 +3,7 @@
     "short_name": "Requests",
     "description": "Send HTTPs, REST and SOAP requests easily.",
     "display": "standalone",
-    "start_url": "/requests",
+    "start_url": "/requests/",
     "theme_color": "#8062F8",
     "background_color": "#8062F8",
     "icons": [
